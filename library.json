@@ -1,0 +1,17 @@
+{
+  "name": "CustomKeypad",
+  "version": "1.0.0",
+  "author": "Sheikh Fardin Hossen Araf",
+  "license": "MIT",
+  "description": "Custom keypad library for Arduino/PlatformIO with external pull-down resistor support and multi-key detection.",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "keywords": ["keypad", "matrix", "custom", "input", "buttons"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sheikh-Araf/CustomKeypad.git"
+  },
+  "examples": [
+    "examples/BasicUsage/BasicUsage.ino"
+  ]
+}
